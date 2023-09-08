@@ -1,7 +1,7 @@
 # Fundamental-EDA
 ## Exploratory Data Analysis on Fundamental Data
 
-An EDA was performed on a dataset of selected mega cap healthcare stocks (> $ 200 billion by market capitalisation) obtained using [FinViz stock screener](https://finviz.com/screener.ashx).
+In [healthcare_stocks_EDA_Apr2023.ipynb](https://github.com/R-Budhidarmo/Fundamental-EDA/blob/main/healthcare_stocks_EDA_Apr2023.ipynb), an EDA was performed on a dataset of selected mega cap healthcare stocks (> $ 200 billion by market capitalisation) obtained using [FinViz stock screener](https://finviz.com/screener.ashx).
 The data have been retrieved using [FinViz stock screener](https://finviz.com/screener.ashx) on 24 April 2023 from FinViz's 'Overview', 'Valuation' and 'Financial' tabs. The only parameters selected was:
 - Market Cap. = Mega ($200bln and more).
 - Sector = Healthcare
