@@ -1,12 +1,10 @@
 # Fundamental-EDA
-## Exploratory Data Analysis on Fundamental Data
+## Exploratory Data Analysis on Fundamental Data of Stocks
 
-In [healthcare_stocks_EDA_Apr2023.ipynb](https://github.com/R-Budhidarmo/Fundamental-EDA/blob/main/healthcare_stocks_EDA_Apr2023.ipynb), an EDA was performed on a dataset of selected mega cap healthcare stocks (> $ 200 billion by market capitalisation) obtained using [FinViz stock screener](https://finviz.com/screener.ashx).
-The data have been retrieved using [FinViz stock screener](https://finviz.com/screener.ashx) on 24 April 2023 from FinViz's 'Overview', 'Valuation' and 'Financial' tabs. The only parameters selected was:
-- Market Cap. = Mega ($200bln and more).
-- Sector = Healthcare
+In [healthcare_stocks_EDA_Apr2023.ipynb](https://github.com/R-Budhidarmo/Fundamental-EDA/blob/main/healthcare_stocks_EDA_Apr2023.ipynb), an EDA was performed on a dataset of selected mega cap healthcare stocks (> $ 200 billion by market capitalisation) obtained from [FinViz stock screener](https://finviz.com/screener.ashx).
+The data have been retrieved in April 2023 from FinViz screener's 'Overview', 'Valuation' and 'Financial' tabs.
 
-The data were then copied and pasted manually into Excel. Like on FinViz website, the data are organised into three tabs in the xlsx file (overview, valuation & financial).
+In [fundamental_data_analysis.ipynb](https://github.com/R-Budhidarmo/Fundamental-EDA/blob/main/fundamental_data_analysis.ipynb), fundamental data for selected biotech stocks have been scraped from Yahoo Finance in Sep 2023. The code for web-scraping can be found in [fundamental_data_scraper.py](https://github.com/R-Budhidarmo/Fundamental-EDA/blob/main/fundamental_data_scraper.py). The ticker symbols can be customised if needed.
 
 **Disclaimer:**
 
